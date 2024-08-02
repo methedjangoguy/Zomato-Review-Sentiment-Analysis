@@ -81,7 +81,3 @@ To get started with the code and analysis in this notebook:
 ## Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
-
-## License
-
-This project is licensed under the MIT License.
